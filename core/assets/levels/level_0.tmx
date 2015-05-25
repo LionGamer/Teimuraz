@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="75" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="Höhle" tilewidth="16" tileheight="16">
+  <image source="tileset.png" width="512" height="512"/>
+ </tileset>
+ <layer name="tiles1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt17FtwkAYhmHTehOyhjuYgiabREI2Y0DBJIiskgyRM/jknzNIKO09j/QJGSpeHRZuGgAAAACA932v/r/ajN+5TeuKXZr72tVyNbfKfb7SjtN+0me/zXz9kXad1lbeaux0Shum9WmHsHXoVXurz9AltoqvuZdWc6u+6Bbf22l1a9UXbYawg1YvWw0v2mk1/wbjvaq8z2u1bJXPkXP1KLfapu2nxfPUF902lbfK/8fPb6zT6ulzzrPnm7byVp6dAQAAAAAAAAAAAAAAoB5/qntsxA==
+  </data>
+ </layer>
+ <layer name="tiles2" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEJwjAUANC6nNSjbqIHZ/CqS4hX3cANqjM4gNYBLNhCCLRIRWLpe/DJT5PD7yekzTIAAAAAgM/tesQxSaXDtE1dQELXaH6ZBGtBfqrHInufr7HLq3gE/Smr/Dlp3T5qm9QFDNAsyG/1uE9RyB9pvm2Nc8ferrWxmUbzdXRPjf3eKoL3b+vFoR7zn1fz3+5Bf5pexOeLbvHdpH/0UbY8b/7V51UsgjntllWsUhcBAAAAAAAAAAAAAAAAfO0FziYgOA==
+  </data>
+ </layer>
+ <layer name="foreground1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJwDAMBEBrBGczZ1gP4ixkdakCgUBQcVepUPX8twYAAAAAAPWsuO8rnv+A73pu7LCzV0bmdMqKH019AwAAAAAAAAAAAAAAAAAobwNtVAMp
+  </data>
+ </layer>
+ <layer name="foreground2" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAAAAAAAAAAAAAAAAACAxwBX5AAB
+  </data>
+ </layer>
+</map>
